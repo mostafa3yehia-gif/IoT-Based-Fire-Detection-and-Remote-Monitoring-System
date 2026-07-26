@@ -39,10 +39,25 @@ Node-RED processes incoming MQTT data and forwards it to InfluxDB Cloud for stor
 
 - [`node-red/flow.json`](node-red/flow.json)
 
+![Node-RED Flow](images/nodered_flow.jpeg)
+![Node-RED Dashboard](images/nodered_dashboard.jpeg)
+
+
 ## 🖼️ Project Images
 
-![Circuit Diagram](images/circuit_diagram.png)
-![Dashboard](images/dashboard_screenshot.png)
+### Sender Circuit (ESP32 + DHT22)
+![Sender Circuit](images/sender_circuit.jpeg)
+
+### Receiver Circuit (ESP32 + LCD)
+![Receiver Circuit](images/receiver_circuit.jpeg)
+
+### InfluxDB Dashboard
+![InfluxDB Dashboard 1](images/influxdb_dashboard_1.jpeg)
+![InfluxDB Dashboard 2](images/influxdb_dashboard_2.jpeg)
+
+## 🎥 Demo Video
+
+[Watch the demo](https://youtu.be/zvTk0RccJoc)
 
 ## 🙏 Acknowledgements
 
